@@ -1,0 +1,30 @@
+.popup-message {
+	color: #FFFFFF;
+	font-size:13px;
+	font-family: century gothic;
+	text-align: center;
+	vertical-align:middle;
+	user-select: none;
+	display: none;
+}
+.window-body {
+	height: 90px;
+	width: 300px;
+	background: #162b3a;
+	opacity: .9;
+	margin: 5px;
+}
+.title-area {
+	height: 45px;
+	width: 300px;
+	line-height: 45px;
+}			
+.text-area {
+	height: 45px;
+	width: 300px;
+	line-height: 45px;				
+}
+.popup-link{
+	color:#FFFFFF;
+	text-decoration:none;
+}

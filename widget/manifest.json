@@ -1,0 +1,33 @@
+{
+    "widget":{
+            "name": "widget.name",
+            "description": "widget.description",
+            "short_description": "widget.short_description",
+            "code": "aw_amo",
+            "secret_key": "3dd1e5c8066862273bb99ed8a512ec213b001a4f35a69cdc3cafb295c5fa8ceb",
+            "version": "1.0.0",
+            "interface_version": 2,
+            "init_once": true,
+            "locale":[
+                    "ru"
+                    ],
+            "installation": true
+            },
+    "locations":[
+			"clist-0",
+			"tlist-0",
+			"settings"
+			],
+    "settings":{
+				 "phones":{
+                        "name": "settings.user_phones",
+                        "type": "users",
+                        "required": false
+                        },
+                "scriptPath":{
+                        "name": "settings.scriptPath",
+                        "type": "text",
+                        "required": true
+                        }
+            }
+}

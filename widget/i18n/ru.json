@@ -1,0 +1,11 @@
+{
+    "widget":{
+        "name":"Автоматика Софт Сервис",
+        "short_description":"Виджет интеграции с Amocrm",
+        "description":"<p>Виджет интеграции c asterisk <a href=\"https://asofts.ru/\">Автоматика Софт Сервис</a></p>"
+    },
+    "settings":{
+		"user_phones":"Номера сотрудников",
+		"scriptPath":"Путь к скрипту"
+    }
+}
